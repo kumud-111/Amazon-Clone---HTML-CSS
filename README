@@ -1,0 +1,51 @@
+# Amazon Clone - HTML & CSS
+
+## Introduction
+This project is a simplified version of the Amazon e-commerce platform, designed to demonstrate fundamental web development concepts using only HTML and CSS. The platform includes a user interface for browsing categories, products, and essential features like account management and help sections.
+
+---
+
+## Features
+
+### Homepage
+- **Navigation Bar:** Links to different sections such as "Get to Know Us," "Make Money with Us," "Amazon Payment Products," and "Let Us Help You."
+- **Category Highlights:** Includes visually appealing cards showcasing different categories:
+  - Beauty Picks
+  - Pet Care
+  - New Arrivals in Toys
+  - Fashion Trends
+  - Clothes
+  - Health & Personal Care
+  - Furniture
+  - Electronics
+
+### Footer
+- Contains quick links to additional resources, including "Conditions of Use," "Privacy Notice," and "Your Ads Privacy Choices."
+- Displays copyright information (e.g., "© 1996-2025, Amazon.com, Inc. or its affiliates").
+
+---
+
+## Technologies Used
+- **Frontend:** HTML, CSS
+
+---
+
+## Setup Instructions
+1. **Open the Project:**
+   Navigate to the project folder and open `index.html` in your browser.
+
+---
+
+---
+
+## Future Enhancements
+- Add interactivity using JavaScript.
+- Implement responsive design for better mobile usability.
+- Add hover effects and animations for enhanced user experience.
+
+---
+
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
